@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm migsss</h1>
 <h3 align="center">A frontend developer</h3>
+<img align="right" alt="pic" width="400" src="https://64.media.tumblr.com/53c36cb4c416a8c3e7d71322a765be9a/055d77f23b181bc7-7a/s500x750/b1ea580a57f42ae7ce67460a8f4f6d0b7b5e4dd0.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://64.media.tumblr.com/53c36cb4c416a8c3e7d71322a765be9a/055d77f23b181bc7-7a/s500x750/b1ea580a57f42ae7ce67460a8f4f6d0b7b5e4dd0.gif" alt="miggydai" /></a> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miggydai" alt="miggydai" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=miggydai&label=Profile%20views&color=0e75b6&style=flat" alt="miggydai" /> </p>
 
 - 🌱 I’m currently learning **flutter, android development**
 
@@ -35,3 +35,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miggydai&show_icons=true&locale=en" alt="miggydai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miggydai&" alt="miggydai" /></p>
+
