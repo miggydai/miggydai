@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm migsss</h1>
-<h3 align="center">A frontend developer</h3>
+<h3 align="center">A web developer</h3>
 <img align="right" alt="pic" width="400" src="https://64.media.tumblr.com/53c36cb4c416a8c3e7d71322a765be9a/055d77f23b181bc7-7a/s500x750/b1ea580a57f42ae7ce67460a8f4f6d0b7b5e4dd0.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miggydai&label=Profile%20views&color=0e75b6&style=flat" alt="miggydai" /> </p>
 
-- 🌱 I’m currently learning **laravel vue**
+- 🌱 I’m currently learning **laravel vue inertia**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
