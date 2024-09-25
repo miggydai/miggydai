@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miggydai&label=Profile%20views&color=0e75b6&style=flat" alt="miggydai" /> </p>
 
-- 🌱 I’m currently learning **typescript, headless cms**
+- 🌱 I’m currently learning ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
