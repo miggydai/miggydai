@@ -51,14 +51,6 @@ Here are some ideas to get you started:
       height="40"
     />
   </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-      alt="csharp"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
@@ -119,14 +111,6 @@ Here are some ideas to get you started:
           height="40"
         />
       </a>
-      <a href="https://pugjs.org" target="_blank" rel="noreferrer">
-        <img
-          src="https://cdn.worldvectorlogo.com/logos/pug.svg"
-          alt="pug"
-          width="40"
-          height="40"
-        />
-      </a>
       <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
@@ -160,14 +144,6 @@ Here are some ideas to get you started:
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
           alt="laravel"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-          alt="php"
           width="40"
           height="40"
         />
